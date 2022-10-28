@@ -1,0 +1,6 @@
+local Message = Instance.new("Message")
+Message.Parent = game.CoreGui
+Message.Text = "CumSock Loader is undergoing maintenance."
+setclipboard("Go cum in a sock")
+wait(5)
+Message:Destroy()
